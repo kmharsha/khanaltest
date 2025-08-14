@@ -1,2 +1,0 @@
-# khanaltest
-khanaltesting
